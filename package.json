@@ -12,8 +12,9 @@
     "start": "node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js dev --config dist/server/wrangler.json --local --persist-to .wrangler/state --ip 127.0.0.1 --inspector-port 0",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
-    "build:github": "npm run build && node scripts/prepare-cloudflare.mjs",
-    "deploy:github": "wrangler d1 migrations apply DB --remote --config dist/server/wrangler.github.json && wrangler deploy --config dist/server/wrangler.github.json"
+    "build:github": "node scripts/build-github.mjs",
+    "deploy:github": "wrangler d1 migrations apply DB --remote --config dist/server/wrangler.github.json && wrangler deploy --config dist/server/wrangler.github.json && node scripts/verify-deployment.mjs",
+    "release:prepare": "node scripts/create-release.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
