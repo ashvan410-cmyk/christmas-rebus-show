@@ -26,3 +26,21 @@
  .game-shell.tv .puzzlemeta{flex-shrink:0;margin-bottom:6px}
  .game-shell.tv .answer.revealed{flex-shrink:0;min-height:0}
 }
+
+/* Keep music separate from the welcome choices. */
+.welcome>.music-controls{margin-top:36px;margin-bottom:12px;gap:24px;flex-shrink:0}
+@media(min-width:761px){
+ .welcome{padding-top:48px}
+ .game-shell.tv .puzzle{background:#fff;border-radius:26px;padding:12px 20px}
+ .game-shell.tv .puzzle:before{border-radius:inherit}
+ .game-shell.tv .puzzlemeta{color:#173e2f}
+ .game-shell.tv .canvas{background:#fff}
+ .game-shell.tv .show-header>.compact{width:190px;flex-shrink:0}
+ .game-shell.tv .compact strong{font-size:22px;letter-spacing:-1px;white-space:nowrap}
+ .game-shell.tv .compact .logo-show{font-size:12px;letter-spacing:1px}
+ .game-shell.tv .scoreboard{min-height:86px}
+ .game-shell.tv .score-panels>p{margin:0;font-size:14px}
+ .game-shell.tv .announcement{border-radius:12px}
+ .game-shell.tv .tv-tools{bottom:3px}
+}
+@media(max-width:760px){.welcome>.music-controls{margin-top:30px;gap:18px}}
