@@ -1,0 +1,2473 @@
+[
+  {
+    "id": "christmas-001",
+    "category": "Decorations",
+    "question": "Name something people decorate for Christmas.",
+    "answers": [
+      {
+        "text": "Christmas tree",
+        "points": 35,
+        "alternatives": [
+          "tree",
+          "xmas tree"
+        ]
+      },
+      {
+        "text": "Christmas lights",
+        "points": 25,
+        "alternatives": [
+          "lights",
+          "fairy lights"
+        ]
+      },
+      {
+        "text": "Wreath",
+        "points": 18,
+        "alternatives": [
+          "door wreath"
+        ]
+      },
+      {
+        "text": "Stockings",
+        "points": 12,
+        "alternatives": [
+          "stocking"
+        ]
+      },
+      {
+        "text": "Nativity scene",
+        "points": 7,
+        "alternatives": [
+          "nativity",
+          "manger"
+        ]
+      },
+      {
+        "text": "Candles",
+        "points": 3,
+        "alternatives": [
+          "candle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-002",
+    "category": "Traditions",
+    "question": "Name something families do on Christmas Eve.",
+    "answers": [
+      {
+        "text": "Open a gift",
+        "points": 35,
+        "alternatives": [
+          "open a gift"
+        ]
+      },
+      {
+        "text": "Attend church",
+        "points": 25,
+        "alternatives": [
+          "attend church"
+        ]
+      },
+      {
+        "text": "Watch a movie",
+        "points": 18,
+        "alternatives": [
+          "watch a movie"
+        ]
+      },
+      {
+        "text": "Leave cookies for Santa",
+        "points": 12,
+        "alternatives": [
+          "leave cookies for santa"
+        ]
+      },
+      {
+        "text": "Read a story",
+        "points": 7,
+        "alternatives": [
+          "read a story"
+        ]
+      },
+      {
+        "text": "Have dinner",
+        "points": 3,
+        "alternatives": [
+          "have dinner"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-003",
+    "category": "Food",
+    "question": "Name a food served at Christmas dinner.",
+    "answers": [
+      {
+        "text": "Turkey",
+        "points": 35,
+        "alternatives": [
+          "turkey"
+        ]
+      },
+      {
+        "text": "Ham",
+        "points": 25,
+        "alternatives": [
+          "ham"
+        ]
+      },
+      {
+        "text": "Roast potatoes",
+        "points": 18,
+        "alternatives": [
+          "roast potatoes"
+        ]
+      },
+      {
+        "text": "Stuffing",
+        "points": 12,
+        "alternatives": [
+          "stuffing"
+        ]
+      },
+      {
+        "text": "Vegetables",
+        "points": 7,
+        "alternatives": [
+          "vegetables"
+        ]
+      },
+      {
+        "text": "Pie",
+        "points": 3,
+        "alternatives": [
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-004",
+    "category": "Gifts",
+    "question": "Name a gift that is difficult to wrap.",
+    "answers": [
+      {
+        "text": "Bicycle",
+        "points": 35,
+        "alternatives": [
+          "bicycle"
+        ]
+      },
+      {
+        "text": "Ball",
+        "points": 25,
+        "alternatives": [
+          "ball"
+        ]
+      },
+      {
+        "text": "Guitar",
+        "points": 18,
+        "alternatives": [
+          "guitar"
+        ]
+      },
+      {
+        "text": "Stuffed animal",
+        "points": 12,
+        "alternatives": [
+          "stuffed animal"
+        ]
+      },
+      {
+        "text": "Chair",
+        "points": 7,
+        "alternatives": [
+          "chair"
+        ]
+      },
+      {
+        "text": "Plant",
+        "points": 3,
+        "alternatives": [
+          "plant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-005",
+    "category": "Movies",
+    "question": "Name a movie people watch at Christmas.",
+    "answers": [
+      {
+        "text": "Home Alone",
+        "points": 35,
+        "alternatives": [
+          "home alone"
+        ]
+      },
+      {
+        "text": "Elf",
+        "points": 25,
+        "alternatives": [
+          "buddy"
+        ]
+      },
+      {
+        "text": "The Polar Express",
+        "points": 18,
+        "alternatives": [
+          "the polar express"
+        ]
+      },
+      {
+        "text": "A Christmas Story",
+        "points": 12,
+        "alternatives": [
+          "a christmas story"
+        ]
+      },
+      {
+        "text": "The Grinch",
+        "points": 7,
+        "alternatives": [
+          "grinch",
+          "how the grinch stole christmas"
+        ]
+      },
+      {
+        "text": "It’s a Wonderful Life",
+        "points": 3,
+        "alternatives": [
+          "its a wonderful life"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-006",
+    "category": "Music",
+    "question": "Name a Christmas song children enjoy singing.",
+    "answers": [
+      {
+        "text": "Jingle Bells",
+        "points": 35,
+        "alternatives": [
+          "jingle bells"
+        ]
+      },
+      {
+        "text": "Rudolph the Red-Nosed Reindeer",
+        "points": 25,
+        "alternatives": [
+          "rudolph the red-nosed reindeer"
+        ]
+      },
+      {
+        "text": "Frosty the Snowman",
+        "points": 18,
+        "alternatives": [
+          "frosty the snowman"
+        ]
+      },
+      {
+        "text": "We Wish You a Merry Christmas",
+        "points": 12,
+        "alternatives": [
+          "we wish you a merry christmas"
+        ]
+      },
+      {
+        "text": "Deck the Halls",
+        "points": 7,
+        "alternatives": [
+          "deck the halls"
+        ]
+      },
+      {
+        "text": "Santa Claus Is Coming to Town",
+        "points": 3,
+        "alternatives": [
+          "santa claus is coming to town"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-007",
+    "category": "Winter",
+    "question": "Name something you wear to stay warm outside.",
+    "answers": [
+      {
+        "text": "Coat",
+        "points": 35,
+        "alternatives": [
+          "jacket"
+        ]
+      },
+      {
+        "text": "Gloves",
+        "points": 25,
+        "alternatives": [
+          "mittens"
+        ]
+      },
+      {
+        "text": "Hat",
+        "points": 18,
+        "alternatives": [
+          "hat"
+        ]
+      },
+      {
+        "text": "Scarf",
+        "points": 12,
+        "alternatives": [
+          "scarf"
+        ]
+      },
+      {
+        "text": "Boots",
+        "points": 7,
+        "alternatives": [
+          "boots"
+        ]
+      },
+      {
+        "text": "Thermal socks",
+        "points": 3,
+        "alternatives": [
+          "thermal socks"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-008",
+    "category": "Gatherings",
+    "question": "Name something a host prepares before a holiday party.",
+    "answers": [
+      {
+        "text": "Food",
+        "points": 35,
+        "alternatives": [
+          "food"
+        ]
+      },
+      {
+        "text": "Clean the house",
+        "points": 25,
+        "alternatives": [
+          "clean the house"
+        ]
+      },
+      {
+        "text": "Decorations",
+        "points": 18,
+        "alternatives": [
+          "decorations"
+        ]
+      },
+      {
+        "text": "Drinks",
+        "points": 12,
+        "alternatives": [
+          "drinks"
+        ]
+      },
+      {
+        "text": "Music",
+        "points": 7,
+        "alternatives": [
+          "music"
+        ]
+      },
+      {
+        "text": "Games",
+        "points": 3,
+        "alternatives": [
+          "games"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-009",
+    "category": "Traditions",
+    "question": "Name something left out for Santa.",
+    "answers": [
+      {
+        "text": "Cookies",
+        "points": 35,
+        "alternatives": [
+          "cookies"
+        ]
+      },
+      {
+        "text": "Milk",
+        "points": 25,
+        "alternatives": [
+          "milk"
+        ]
+      },
+      {
+        "text": "Carrots",
+        "points": 18,
+        "alternatives": [
+          "carrots"
+        ]
+      },
+      {
+        "text": "A letter",
+        "points": 12,
+        "alternatives": [
+          "a letter"
+        ]
+      },
+      {
+        "text": "Mince pie",
+        "points": 7,
+        "alternatives": [
+          "mince pie"
+        ]
+      },
+      {
+        "text": "Hot chocolate",
+        "points": 3,
+        "alternatives": [
+          "cocoa",
+          "hot cocoa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-010",
+    "category": "Decorations",
+    "question": "Name a Christmas tree decoration.",
+    "answers": [
+      {
+        "text": "Ornament",
+        "points": 35,
+        "alternatives": [
+          "ornament"
+        ]
+      },
+      {
+        "text": "Lights",
+        "points": 25,
+        "alternatives": [
+          "lights"
+        ]
+      },
+      {
+        "text": "Star",
+        "points": 18,
+        "alternatives": [
+          "star"
+        ]
+      },
+      {
+        "text": "Tinsel",
+        "points": 12,
+        "alternatives": [
+          "tinsel"
+        ]
+      },
+      {
+        "text": "Ribbon",
+        "points": 7,
+        "alternatives": [
+          "ribbon"
+        ]
+      },
+      {
+        "text": "Candy cane",
+        "points": 3,
+        "alternatives": [
+          "candy cane"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-011",
+    "category": "Gifts",
+    "question": "Name a popular stocking filler.",
+    "answers": [
+      {
+        "text": "Candy",
+        "points": 35,
+        "alternatives": [
+          "sweets"
+        ]
+      },
+      {
+        "text": "Socks",
+        "points": 25,
+        "alternatives": [
+          "socks"
+        ]
+      },
+      {
+        "text": "Gift card",
+        "points": 18,
+        "alternatives": [
+          "gift card"
+        ]
+      },
+      {
+        "text": "Small toy",
+        "points": 12,
+        "alternatives": [
+          "small toy"
+        ]
+      },
+      {
+        "text": "Lip balm",
+        "points": 7,
+        "alternatives": [
+          "lip balm"
+        ]
+      },
+      {
+        "text": "Orange",
+        "points": 3,
+        "alternatives": [
+          "orange"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-012",
+    "category": "Food",
+    "question": "Name a sweet treat associated with Christmas.",
+    "answers": [
+      {
+        "text": "Gingerbread",
+        "points": 35,
+        "alternatives": [
+          "gingerbread"
+        ]
+      },
+      {
+        "text": "Sugar cookies",
+        "points": 25,
+        "alternatives": [
+          "sugar cookies"
+        ]
+      },
+      {
+        "text": "Candy canes",
+        "points": 18,
+        "alternatives": [
+          "candy canes"
+        ]
+      },
+      {
+        "text": "Chocolate",
+        "points": 12,
+        "alternatives": [
+          "chocolate"
+        ]
+      },
+      {
+        "text": "Fruitcake",
+        "points": 7,
+        "alternatives": [
+          "fruitcake"
+        ]
+      },
+      {
+        "text": "Peppermint bark",
+        "points": 3,
+        "alternatives": [
+          "peppermint bark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-013",
+    "category": "Winter",
+    "question": "Name an activity people do in the snow.",
+    "answers": [
+      {
+        "text": "Build a snowman",
+        "points": 35,
+        "alternatives": [
+          "build a snowman"
+        ]
+      },
+      {
+        "text": "Sledding",
+        "points": 25,
+        "alternatives": [
+          "sledging",
+          "tobogganing"
+        ]
+      },
+      {
+        "text": "Snowball fight",
+        "points": 18,
+        "alternatives": [
+          "snowball fight"
+        ]
+      },
+      {
+        "text": "Skiing",
+        "points": 12,
+        "alternatives": [
+          "ski"
+        ]
+      },
+      {
+        "text": "Make snow angels",
+        "points": 7,
+        "alternatives": [
+          "make snow angels"
+        ]
+      },
+      {
+        "text": "Snowboarding",
+        "points": 3,
+        "alternatives": [
+          "snowboarding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-014",
+    "category": "Gatherings",
+    "question": "Name a reason someone arrives late to Christmas dinner.",
+    "answers": [
+      {
+        "text": "Traffic",
+        "points": 35,
+        "alternatives": [
+          "traffic"
+        ]
+      },
+      {
+        "text": "Weather",
+        "points": 25,
+        "alternatives": [
+          "weather"
+        ]
+      },
+      {
+        "text": "Cooking",
+        "points": 18,
+        "alternatives": [
+          "cooking"
+        ]
+      },
+      {
+        "text": "Overslept",
+        "points": 12,
+        "alternatives": [
+          "overslept"
+        ]
+      },
+      {
+        "text": "Wrapping gifts",
+        "points": 7,
+        "alternatives": [
+          "wrapping gifts"
+        ]
+      },
+      {
+        "text": "Got lost",
+        "points": 3,
+        "alternatives": [
+          "got lost"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-015",
+    "category": "Traditions",
+    "question": "Name something people send during the holidays.",
+    "answers": [
+      {
+        "text": "Christmas card",
+        "points": 35,
+        "alternatives": [
+          "cards",
+          "holiday card"
+        ]
+      },
+      {
+        "text": "Gift",
+        "points": 25,
+        "alternatives": [
+          "gift"
+        ]
+      },
+      {
+        "text": "Text message",
+        "points": 18,
+        "alternatives": [
+          "text message"
+        ]
+      },
+      {
+        "text": "Invitation",
+        "points": 12,
+        "alternatives": [
+          "invitation"
+        ]
+      },
+      {
+        "text": "Family photo",
+        "points": 7,
+        "alternatives": [
+          "family photo"
+        ]
+      },
+      {
+        "text": "Newsletter",
+        "points": 3,
+        "alternatives": [
+          "newsletter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-016",
+    "category": "Decorations",
+    "question": "Name something seen on a front porch at Christmas.",
+    "answers": [
+      {
+        "text": "Wreath",
+        "points": 35,
+        "alternatives": [
+          "door wreath"
+        ]
+      },
+      {
+        "text": "Lights",
+        "points": 25,
+        "alternatives": [
+          "lights"
+        ]
+      },
+      {
+        "text": "Christmas tree",
+        "points": 18,
+        "alternatives": [
+          "tree",
+          "xmas tree"
+        ]
+      },
+      {
+        "text": "Inflatable decoration",
+        "points": 12,
+        "alternatives": [
+          "inflatable decoration"
+        ]
+      },
+      {
+        "text": "Garland",
+        "points": 7,
+        "alternatives": [
+          "garland"
+        ]
+      },
+      {
+        "text": "Lantern",
+        "points": 3,
+        "alternatives": [
+          "lantern"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-017",
+    "category": "Gifts",
+    "question": "Name someone you might buy a Christmas gift for.",
+    "answers": [
+      {
+        "text": "Child",
+        "points": 35,
+        "alternatives": [
+          "kids",
+          "children"
+        ]
+      },
+      {
+        "text": "Spouse",
+        "points": 25,
+        "alternatives": [
+          "partner",
+          "husband",
+          "wife"
+        ]
+      },
+      {
+        "text": "Parent",
+        "points": 18,
+        "alternatives": [
+          "mum",
+          "mom",
+          "dad",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "text": "Friend",
+        "points": 12,
+        "alternatives": [
+          "friend"
+        ]
+      },
+      {
+        "text": "Sibling",
+        "points": 7,
+        "alternatives": [
+          "sibling"
+        ]
+      },
+      {
+        "text": "Teacher",
+        "points": 3,
+        "alternatives": [
+          "teacher"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-018",
+    "category": "Food",
+    "question": "Name a drink served during the holidays.",
+    "answers": [
+      {
+        "text": "Hot chocolate",
+        "points": 35,
+        "alternatives": [
+          "cocoa",
+          "hot cocoa"
+        ]
+      },
+      {
+        "text": "Eggnog",
+        "points": 25,
+        "alternatives": [
+          "eggnog"
+        ]
+      },
+      {
+        "text": "Cider",
+        "points": 18,
+        "alternatives": [
+          "cider"
+        ]
+      },
+      {
+        "text": "Coffee",
+        "points": 12,
+        "alternatives": [
+          "coffee"
+        ]
+      },
+      {
+        "text": "Tea",
+        "points": 7,
+        "alternatives": [
+          "tea"
+        ]
+      },
+      {
+        "text": "Punch",
+        "points": 3,
+        "alternatives": [
+          "punch"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-019",
+    "category": "Movies",
+    "question": "Name a character from a Christmas movie or story.",
+    "answers": [
+      {
+        "text": "Santa Claus",
+        "points": 35,
+        "alternatives": [
+          "santa claus"
+        ]
+      },
+      {
+        "text": "The Grinch",
+        "points": 25,
+        "alternatives": [
+          "grinch",
+          "how the grinch stole christmas"
+        ]
+      },
+      {
+        "text": "Scrooge",
+        "points": 18,
+        "alternatives": [
+          "scrooge"
+        ]
+      },
+      {
+        "text": "Rudolph",
+        "points": 12,
+        "alternatives": [
+          "rudolph"
+        ]
+      },
+      {
+        "text": "Frosty",
+        "points": 7,
+        "alternatives": [
+          "frosty"
+        ]
+      },
+      {
+        "text": "Buddy the Elf",
+        "points": 3,
+        "alternatives": [
+          "buddy the elf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-020",
+    "category": "Music",
+    "question": "Name a sound you hear at Christmas.",
+    "answers": [
+      {
+        "text": "Bells",
+        "points": 35,
+        "alternatives": [
+          "bells"
+        ]
+      },
+      {
+        "text": "Christmas songs",
+        "points": 25,
+        "alternatives": [
+          "carols",
+          "caroling"
+        ]
+      },
+      {
+        "text": "Laughter",
+        "points": 18,
+        "alternatives": [
+          "laughter"
+        ]
+      },
+      {
+        "text": "Wrapping paper",
+        "points": 12,
+        "alternatives": [
+          "wrapping paper"
+        ]
+      },
+      {
+        "text": "Choir",
+        "points": 7,
+        "alternatives": [
+          "choir"
+        ]
+      },
+      {
+        "text": "Fire crackling",
+        "points": 3,
+        "alternatives": [
+          "fire crackling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-021",
+    "category": "Winter",
+    "question": "Name something you need to build a snowman.",
+    "answers": [
+      {
+        "text": "Snow",
+        "points": 35,
+        "alternatives": [
+          "snow"
+        ]
+      },
+      {
+        "text": "Carrot",
+        "points": 25,
+        "alternatives": [
+          "carrot"
+        ]
+      },
+      {
+        "text": "Sticks",
+        "points": 18,
+        "alternatives": [
+          "sticks"
+        ]
+      },
+      {
+        "text": "Coal",
+        "points": 12,
+        "alternatives": [
+          "coal"
+        ]
+      },
+      {
+        "text": "Scarf",
+        "points": 7,
+        "alternatives": [
+          "scarf"
+        ]
+      },
+      {
+        "text": "Hat",
+        "points": 3,
+        "alternatives": [
+          "hat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-022",
+    "category": "Gatherings",
+    "question": "Name a game families play at a holiday gathering.",
+    "answers": [
+      {
+        "text": "Charades",
+        "points": 35,
+        "alternatives": [
+          "charades"
+        ]
+      },
+      {
+        "text": "Board game",
+        "points": 25,
+        "alternatives": [
+          "board game"
+        ]
+      },
+      {
+        "text": "Card game",
+        "points": 18,
+        "alternatives": [
+          "card game"
+        ]
+      },
+      {
+        "text": "Trivia",
+        "points": 12,
+        "alternatives": [
+          "trivia"
+        ]
+      },
+      {
+        "text": "Gift exchange",
+        "points": 7,
+        "alternatives": [
+          "gift exchange"
+        ]
+      },
+      {
+        "text": "Bingo",
+        "points": 3,
+        "alternatives": [
+          "bingo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-023",
+    "category": "Traditions",
+    "question": "Name something people do on Christmas morning.",
+    "answers": [
+      {
+        "text": "Open gifts",
+        "points": 35,
+        "alternatives": [
+          "open gifts"
+        ]
+      },
+      {
+        "text": "Eat breakfast",
+        "points": 25,
+        "alternatives": [
+          "eat breakfast"
+        ]
+      },
+      {
+        "text": "Check stockings",
+        "points": 18,
+        "alternatives": [
+          "check stockings"
+        ]
+      },
+      {
+        "text": "Take pictures",
+        "points": 12,
+        "alternatives": [
+          "take pictures"
+        ]
+      },
+      {
+        "text": "Call family",
+        "points": 7,
+        "alternatives": [
+          "call family"
+        ]
+      },
+      {
+        "text": "Attend church",
+        "points": 3,
+        "alternatives": [
+          "attend church"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-024",
+    "category": "Decorations",
+    "question": "Name a color used in Christmas decorations.",
+    "answers": [
+      {
+        "text": "Red",
+        "points": 35,
+        "alternatives": [
+          "red"
+        ]
+      },
+      {
+        "text": "Green",
+        "points": 25,
+        "alternatives": [
+          "green"
+        ]
+      },
+      {
+        "text": "Gold",
+        "points": 18,
+        "alternatives": [
+          "gold"
+        ]
+      },
+      {
+        "text": "White",
+        "points": 12,
+        "alternatives": [
+          "white"
+        ]
+      },
+      {
+        "text": "Silver",
+        "points": 7,
+        "alternatives": [
+          "silver"
+        ]
+      },
+      {
+        "text": "Blue",
+        "points": 3,
+        "alternatives": [
+          "blue"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-025",
+    "category": "Gifts",
+    "question": "Name something that comes in a gift basket.",
+    "answers": [
+      {
+        "text": "Chocolate",
+        "points": 35,
+        "alternatives": [
+          "chocolate"
+        ]
+      },
+      {
+        "text": "Fruit",
+        "points": 25,
+        "alternatives": [
+          "fruit"
+        ]
+      },
+      {
+        "text": "Cheese",
+        "points": 18,
+        "alternatives": [
+          "cheese"
+        ]
+      },
+      {
+        "text": "Crackers",
+        "points": 12,
+        "alternatives": [
+          "crackers"
+        ]
+      },
+      {
+        "text": "Coffee",
+        "points": 7,
+        "alternatives": [
+          "coffee"
+        ]
+      },
+      {
+        "text": "Soap",
+        "points": 3,
+        "alternatives": [
+          "soap"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-026",
+    "category": "Food",
+    "question": "Name a Christmas cookie shape.",
+    "answers": [
+      {
+        "text": "Star",
+        "points": 35,
+        "alternatives": [
+          "star"
+        ]
+      },
+      {
+        "text": "Christmas tree",
+        "points": 25,
+        "alternatives": [
+          "tree",
+          "xmas tree"
+        ]
+      },
+      {
+        "text": "Gingerbread person",
+        "points": 18,
+        "alternatives": [
+          "gingerbread man"
+        ]
+      },
+      {
+        "text": "Snowflake",
+        "points": 12,
+        "alternatives": [
+          "snowflake"
+        ]
+      },
+      {
+        "text": "Candy cane",
+        "points": 7,
+        "alternatives": [
+          "candy cane"
+        ]
+      },
+      {
+        "text": "Bell",
+        "points": 3,
+        "alternatives": [
+          "bell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-027",
+    "category": "Winter",
+    "question": "Name a place people visit during winter.",
+    "answers": [
+      {
+        "text": "Ski resort",
+        "points": 35,
+        "alternatives": [
+          "ski resort"
+        ]
+      },
+      {
+        "text": "Ice rink",
+        "points": 25,
+        "alternatives": [
+          "ice rink"
+        ]
+      },
+      {
+        "text": "Christmas market",
+        "points": 18,
+        "alternatives": [
+          "christmas market"
+        ]
+      },
+      {
+        "text": "Family home",
+        "points": 12,
+        "alternatives": [
+          "family home"
+        ]
+      },
+      {
+        "text": "Cabin",
+        "points": 7,
+        "alternatives": [
+          "cabin"
+        ]
+      },
+      {
+        "text": "Shopping mall",
+        "points": 3,
+        "alternatives": [
+          "shopping mall"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-028",
+    "category": "Gatherings",
+    "question": "Name something people forget to bring to a party.",
+    "answers": [
+      {
+        "text": "Gift",
+        "points": 35,
+        "alternatives": [
+          "gift"
+        ]
+      },
+      {
+        "text": "Food",
+        "points": 25,
+        "alternatives": [
+          "food"
+        ]
+      },
+      {
+        "text": "Drinks",
+        "points": 18,
+        "alternatives": [
+          "drinks"
+        ]
+      },
+      {
+        "text": "Coat",
+        "points": 12,
+        "alternatives": [
+          "jacket"
+        ]
+      },
+      {
+        "text": "Phone",
+        "points": 7,
+        "alternatives": [
+          "phone"
+        ]
+      },
+      {
+        "text": "Invitation",
+        "points": 3,
+        "alternatives": [
+          "invitation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-029",
+    "category": "Traditions",
+    "question": "Name a place children look for hidden presents.",
+    "answers": [
+      {
+        "text": "Closet",
+        "points": 35,
+        "alternatives": [
+          "closet"
+        ]
+      },
+      {
+        "text": "Under the bed",
+        "points": 25,
+        "alternatives": [
+          "under the bed"
+        ]
+      },
+      {
+        "text": "Garage",
+        "points": 18,
+        "alternatives": [
+          "garage"
+        ]
+      },
+      {
+        "text": "Attic",
+        "points": 12,
+        "alternatives": [
+          "attic"
+        ]
+      },
+      {
+        "text": "Car trunk",
+        "points": 7,
+        "alternatives": [
+          "boot of the car",
+          "trunk"
+        ]
+      },
+      {
+        "text": "Basement",
+        "points": 3,
+        "alternatives": [
+          "basement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-030",
+    "category": "Decorations",
+    "question": "Name something that tops a Christmas tree.",
+    "answers": [
+      {
+        "text": "Star",
+        "points": 35,
+        "alternatives": [
+          "star"
+        ]
+      },
+      {
+        "text": "Angel",
+        "points": 25,
+        "alternatives": [
+          "angel"
+        ]
+      },
+      {
+        "text": "Bow",
+        "points": 18,
+        "alternatives": [
+          "bow"
+        ]
+      },
+      {
+        "text": "Santa hat",
+        "points": 12,
+        "alternatives": [
+          "santa hat"
+        ]
+      },
+      {
+        "text": "Snowflake",
+        "points": 7,
+        "alternatives": [
+          "snowflake"
+        ]
+      },
+      {
+        "text": "Ribbon",
+        "points": 3,
+        "alternatives": [
+          "ribbon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-031",
+    "category": "Gifts",
+    "question": "Name a gift that can be used up.",
+    "answers": [
+      {
+        "text": "Chocolate",
+        "points": 35,
+        "alternatives": [
+          "chocolate"
+        ]
+      },
+      {
+        "text": "Candle",
+        "points": 25,
+        "alternatives": [
+          "candle"
+        ]
+      },
+      {
+        "text": "Soap",
+        "points": 18,
+        "alternatives": [
+          "soap"
+        ]
+      },
+      {
+        "text": "Coffee",
+        "points": 12,
+        "alternatives": [
+          "coffee"
+        ]
+      },
+      {
+        "text": "Perfume",
+        "points": 7,
+        "alternatives": [
+          "perfume"
+        ]
+      },
+      {
+        "text": "Art supplies",
+        "points": 3,
+        "alternatives": [
+          "art supplies"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-032",
+    "category": "Food",
+    "question": "Name a spice used in holiday baking.",
+    "answers": [
+      {
+        "text": "Cinnamon",
+        "points": 35,
+        "alternatives": [
+          "cinnamon"
+        ]
+      },
+      {
+        "text": "Ginger",
+        "points": 25,
+        "alternatives": [
+          "ginger"
+        ]
+      },
+      {
+        "text": "Nutmeg",
+        "points": 18,
+        "alternatives": [
+          "nutmeg"
+        ]
+      },
+      {
+        "text": "Cloves",
+        "points": 12,
+        "alternatives": [
+          "cloves"
+        ]
+      },
+      {
+        "text": "Allspice",
+        "points": 7,
+        "alternatives": [
+          "allspice"
+        ]
+      },
+      {
+        "text": "Cardamom",
+        "points": 3,
+        "alternatives": [
+          "cardamom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-033",
+    "category": "Movies",
+    "question": "Name something Santa travels with in stories.",
+    "answers": [
+      {
+        "text": "Sleigh",
+        "points": 35,
+        "alternatives": [
+          "sleigh"
+        ]
+      },
+      {
+        "text": "Reindeer",
+        "points": 25,
+        "alternatives": [
+          "reindeer"
+        ]
+      },
+      {
+        "text": "Sack of gifts",
+        "points": 18,
+        "alternatives": [
+          "sack of gifts"
+        ]
+      },
+      {
+        "text": "Elves",
+        "points": 12,
+        "alternatives": [
+          "elves"
+        ]
+      },
+      {
+        "text": "Boots",
+        "points": 7,
+        "alternatives": [
+          "boots"
+        ]
+      },
+      {
+        "text": "A list",
+        "points": 3,
+        "alternatives": [
+          "a list"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-034",
+    "category": "Music",
+    "question": "Name a place you might hear Christmas music.",
+    "answers": [
+      {
+        "text": "Store",
+        "points": 35,
+        "alternatives": [
+          "store"
+        ]
+      },
+      {
+        "text": "Radio",
+        "points": 25,
+        "alternatives": [
+          "radio"
+        ]
+      },
+      {
+        "text": "Church",
+        "points": 18,
+        "alternatives": [
+          "church"
+        ]
+      },
+      {
+        "text": "Home",
+        "points": 12,
+        "alternatives": [
+          "home"
+        ]
+      },
+      {
+        "text": "Holiday party",
+        "points": 7,
+        "alternatives": [
+          "holiday party"
+        ]
+      },
+      {
+        "text": "Car",
+        "points": 3,
+        "alternatives": [
+          "car"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-035",
+    "category": "Winter",
+    "question": "Name a problem caused by snowy weather.",
+    "answers": [
+      {
+        "text": "Slippery roads",
+        "points": 35,
+        "alternatives": [
+          "slippery roads"
+        ]
+      },
+      {
+        "text": "Travel delays",
+        "points": 25,
+        "alternatives": [
+          "travel delays"
+        ]
+      },
+      {
+        "text": "Cold feet",
+        "points": 18,
+        "alternatives": [
+          "cold feet"
+        ]
+      },
+      {
+        "text": "Power outage",
+        "points": 12,
+        "alternatives": [
+          "power outage"
+        ]
+      },
+      {
+        "text": "School closure",
+        "points": 7,
+        "alternatives": [
+          "school closure"
+        ]
+      },
+      {
+        "text": "Shoveling",
+        "points": 3,
+        "alternatives": [
+          "shoveling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-036",
+    "category": "Gatherings",
+    "question": "Name something people take photos of at Christmas.",
+    "answers": [
+      {
+        "text": "Family",
+        "points": 35,
+        "alternatives": [
+          "family"
+        ]
+      },
+      {
+        "text": "Christmas tree",
+        "points": 25,
+        "alternatives": [
+          "tree",
+          "xmas tree"
+        ]
+      },
+      {
+        "text": "Children opening gifts",
+        "points": 18,
+        "alternatives": [
+          "children opening gifts"
+        ]
+      },
+      {
+        "text": "Pets",
+        "points": 12,
+        "alternatives": [
+          "pets"
+        ]
+      },
+      {
+        "text": "Dinner",
+        "points": 7,
+        "alternatives": [
+          "dinner"
+        ]
+      },
+      {
+        "text": "Decorations",
+        "points": 3,
+        "alternatives": [
+          "decorations"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-037",
+    "category": "Traditions",
+    "question": "Name something people do after Christmas.",
+    "answers": [
+      {
+        "text": "Take down decorations",
+        "points": 35,
+        "alternatives": [
+          "take down decorations"
+        ]
+      },
+      {
+        "text": "Return gifts",
+        "points": 25,
+        "alternatives": [
+          "return gifts"
+        ]
+      },
+      {
+        "text": "Eat leftovers",
+        "points": 18,
+        "alternatives": [
+          "eat leftovers"
+        ]
+      },
+      {
+        "text": "Relax",
+        "points": 12,
+        "alternatives": [
+          "relax"
+        ]
+      },
+      {
+        "text": "Visit family",
+        "points": 7,
+        "alternatives": [
+          "visit family"
+        ]
+      },
+      {
+        "text": "Shop sales",
+        "points": 3,
+        "alternatives": [
+          "shop sales"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-038",
+    "category": "Decorations",
+    "question": "Name something that lights up at Christmas.",
+    "answers": [
+      {
+        "text": "Tree",
+        "points": 35,
+        "alternatives": [
+          "tree"
+        ]
+      },
+      {
+        "text": "House",
+        "points": 25,
+        "alternatives": [
+          "house"
+        ]
+      },
+      {
+        "text": "Street",
+        "points": 18,
+        "alternatives": [
+          "street"
+        ]
+      },
+      {
+        "text": "Window",
+        "points": 12,
+        "alternatives": [
+          "window"
+        ]
+      },
+      {
+        "text": "Candles",
+        "points": 7,
+        "alternatives": [
+          "candle"
+        ]
+      },
+      {
+        "text": "Inflatable decoration",
+        "points": 3,
+        "alternatives": [
+          "inflatable decoration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-039",
+    "category": "Gifts",
+    "question": "Name a gift for someone who enjoys cooking.",
+    "answers": [
+      {
+        "text": "Cookbook",
+        "points": 35,
+        "alternatives": [
+          "cookbook"
+        ]
+      },
+      {
+        "text": "Kitchen gadget",
+        "points": 25,
+        "alternatives": [
+          "kitchen gadget"
+        ]
+      },
+      {
+        "text": "Apron",
+        "points": 18,
+        "alternatives": [
+          "apron"
+        ]
+      },
+      {
+        "text": "Spices",
+        "points": 12,
+        "alternatives": [
+          "spices"
+        ]
+      },
+      {
+        "text": "Cookware",
+        "points": 7,
+        "alternatives": [
+          "cookware"
+        ]
+      },
+      {
+        "text": "Cooking class",
+        "points": 3,
+        "alternatives": [
+          "cooking class"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-040",
+    "category": "Food",
+    "question": "Name a topping for hot chocolate.",
+    "answers": [
+      {
+        "text": "Marshmallows",
+        "points": 35,
+        "alternatives": [
+          "marshmallows"
+        ]
+      },
+      {
+        "text": "Whipped cream",
+        "points": 25,
+        "alternatives": [
+          "whipped cream"
+        ]
+      },
+      {
+        "text": "Chocolate shavings",
+        "points": 18,
+        "alternatives": [
+          "chocolate shavings"
+        ]
+      },
+      {
+        "text": "Candy cane",
+        "points": 12,
+        "alternatives": [
+          "candy cane"
+        ]
+      },
+      {
+        "text": "Cinnamon",
+        "points": 7,
+        "alternatives": [
+          "cinnamon"
+        ]
+      },
+      {
+        "text": "Caramel",
+        "points": 3,
+        "alternatives": [
+          "caramel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-041",
+    "category": "Winter",
+    "question": "Name something people do beside a fireplace.",
+    "answers": [
+      {
+        "text": "Stay warm",
+        "points": 35,
+        "alternatives": [
+          "stay warm"
+        ]
+      },
+      {
+        "text": "Read",
+        "points": 25,
+        "alternatives": [
+          "read"
+        ]
+      },
+      {
+        "text": "Drink hot chocolate",
+        "points": 18,
+        "alternatives": [
+          "drink hot chocolate"
+        ]
+      },
+      {
+        "text": "Talk",
+        "points": 12,
+        "alternatives": [
+          "talk"
+        ]
+      },
+      {
+        "text": "Nap",
+        "points": 7,
+        "alternatives": [
+          "nap"
+        ]
+      },
+      {
+        "text": "Open presents",
+        "points": 3,
+        "alternatives": [
+          "open presents"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-042",
+    "category": "Gatherings",
+    "question": "Name something people argue about during a board game.",
+    "answers": [
+      {
+        "text": "Rules",
+        "points": 35,
+        "alternatives": [
+          "rules"
+        ]
+      },
+      {
+        "text": "Whose turn",
+        "points": 25,
+        "alternatives": [
+          "whose turn"
+        ]
+      },
+      {
+        "text": "Cheating",
+        "points": 18,
+        "alternatives": [
+          "cheating"
+        ]
+      },
+      {
+        "text": "Score",
+        "points": 12,
+        "alternatives": [
+          "score"
+        ]
+      },
+      {
+        "text": "Winning",
+        "points": 7,
+        "alternatives": [
+          "winning"
+        ]
+      },
+      {
+        "text": "Time limit",
+        "points": 3,
+        "alternatives": [
+          "time limit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-043",
+    "category": "Traditions",
+    "question": "Name a holiday task people put off.",
+    "answers": [
+      {
+        "text": "Gift shopping",
+        "points": 35,
+        "alternatives": [
+          "gift shopping"
+        ]
+      },
+      {
+        "text": "Wrapping",
+        "points": 25,
+        "alternatives": [
+          "wrapping"
+        ]
+      },
+      {
+        "text": "Sending cards",
+        "points": 18,
+        "alternatives": [
+          "sending cards"
+        ]
+      },
+      {
+        "text": "Cleaning",
+        "points": 12,
+        "alternatives": [
+          "cleaning"
+        ]
+      },
+      {
+        "text": "Decorating",
+        "points": 7,
+        "alternatives": [
+          "decorating"
+        ]
+      },
+      {
+        "text": "Packing",
+        "points": 3,
+        "alternatives": [
+          "packing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-044",
+    "category": "Decorations",
+    "question": "Name a decoration made from paper.",
+    "answers": [
+      {
+        "text": "Snowflake",
+        "points": 35,
+        "alternatives": [
+          "snowflake"
+        ]
+      },
+      {
+        "text": "Paper chain",
+        "points": 25,
+        "alternatives": [
+          "paper chain"
+        ]
+      },
+      {
+        "text": "Star",
+        "points": 18,
+        "alternatives": [
+          "star"
+        ]
+      },
+      {
+        "text": "Angel",
+        "points": 12,
+        "alternatives": [
+          "angel"
+        ]
+      },
+      {
+        "text": "Tree",
+        "points": 7,
+        "alternatives": [
+          "tree"
+        ]
+      },
+      {
+        "text": "Lantern",
+        "points": 3,
+        "alternatives": [
+          "lantern"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-045",
+    "category": "Gifts",
+    "question": "Name something used to wrap a present.",
+    "answers": [
+      {
+        "text": "Wrapping paper",
+        "points": 35,
+        "alternatives": [
+          "wrapping paper"
+        ]
+      },
+      {
+        "text": "Tape",
+        "points": 25,
+        "alternatives": [
+          "tape"
+        ]
+      },
+      {
+        "text": "Ribbon",
+        "points": 18,
+        "alternatives": [
+          "ribbon"
+        ]
+      },
+      {
+        "text": "Gift bag",
+        "points": 12,
+        "alternatives": [
+          "gift bag"
+        ]
+      },
+      {
+        "text": "Tissue paper",
+        "points": 7,
+        "alternatives": [
+          "tissue paper"
+        ]
+      },
+      {
+        "text": "Bow",
+        "points": 3,
+        "alternatives": [
+          "bow"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-046",
+    "category": "Food",
+    "question": "Name something you might find in a holiday leftovers sandwich.",
+    "answers": [
+      {
+        "text": "Turkey",
+        "points": 35,
+        "alternatives": [
+          "turkey"
+        ]
+      },
+      {
+        "text": "Ham",
+        "points": 25,
+        "alternatives": [
+          "ham"
+        ]
+      },
+      {
+        "text": "Stuffing",
+        "points": 18,
+        "alternatives": [
+          "stuffing"
+        ]
+      },
+      {
+        "text": "Cranberry sauce",
+        "points": 12,
+        "alternatives": [
+          "cranberry sauce"
+        ]
+      },
+      {
+        "text": "Cheese",
+        "points": 7,
+        "alternatives": [
+          "cheese"
+        ]
+      },
+      {
+        "text": "Gravy",
+        "points": 3,
+        "alternatives": [
+          "gravy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-047",
+    "category": "Movies",
+    "question": "Name something that happens in a cheerful Christmas movie.",
+    "answers": [
+      {
+        "text": "Family reunites",
+        "points": 35,
+        "alternatives": [
+          "family reunites"
+        ]
+      },
+      {
+        "text": "Snow falls",
+        "points": 25,
+        "alternatives": [
+          "snow falls"
+        ]
+      },
+      {
+        "text": "Gifts are exchanged",
+        "points": 18,
+        "alternatives": [
+          "gifts are exchanged"
+        ]
+      },
+      {
+        "text": "Someone learns a lesson",
+        "points": 12,
+        "alternatives": [
+          "someone learns a lesson"
+        ]
+      },
+      {
+        "text": "People sing",
+        "points": 7,
+        "alternatives": [
+          "people sing"
+        ]
+      },
+      {
+        "text": "A romance begins",
+        "points": 3,
+        "alternatives": [
+          "a romance begins"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-048",
+    "category": "Music",
+    "question": "Name an instrument heard in Christmas music.",
+    "answers": [
+      {
+        "text": "Bells",
+        "points": 35,
+        "alternatives": [
+          "bells"
+        ]
+      },
+      {
+        "text": "Piano",
+        "points": 25,
+        "alternatives": [
+          "piano"
+        ]
+      },
+      {
+        "text": "Trumpet",
+        "points": 18,
+        "alternatives": [
+          "trumpet"
+        ]
+      },
+      {
+        "text": "Guitar",
+        "points": 12,
+        "alternatives": [
+          "guitar"
+        ]
+      },
+      {
+        "text": "Violin",
+        "points": 7,
+        "alternatives": [
+          "violin"
+        ]
+      },
+      {
+        "text": "Drums",
+        "points": 3,
+        "alternatives": [
+          "drums"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-049",
+    "category": "Winter",
+    "question": "Name a way people warm up after being outside.",
+    "answers": [
+      {
+        "text": "Hot drink",
+        "points": 35,
+        "alternatives": [
+          "hot drink"
+        ]
+      },
+      {
+        "text": "Blanket",
+        "points": 25,
+        "alternatives": [
+          "blanket"
+        ]
+      },
+      {
+        "text": "Fireplace",
+        "points": 18,
+        "alternatives": [
+          "fireplace"
+        ]
+      },
+      {
+        "text": "Warm bath",
+        "points": 12,
+        "alternatives": [
+          "warm bath"
+        ]
+      },
+      {
+        "text": "Change clothes",
+        "points": 7,
+        "alternatives": [
+          "change clothes"
+        ]
+      },
+      {
+        "text": "Turn up the heat",
+        "points": 3,
+        "alternatives": [
+          "turn up the heat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christmas-050",
+    "category": "Gatherings",
+    "question": "Name something that makes a holiday gathering memorable.",
+    "answers": [
+      {
+        "text": "Time with family",
+        "points": 35,
+        "alternatives": [
+          "time with family"
+        ]
+      },
+      {
+        "text": "Good food",
+        "points": 25,
+        "alternatives": [
+          "good food"
+        ]
+      },
+      {
+        "text": "Games",
+        "points": 18,
+        "alternatives": [
+          "games"
+        ]
+      },
+      {
+        "text": "Laughter",
+        "points": 12,
+        "alternatives": [
+          "laughter"
+        ]
+      },
+      {
+        "text": "Gifts",
+        "points": 7,
+        "alternatives": [
+          "gifts"
+        ]
+      },
+      {
+        "text": "Music",
+        "points": 3,
+        "alternatives": [
+          "music"
+        ]
+      }
+    ]
+  }
+]
