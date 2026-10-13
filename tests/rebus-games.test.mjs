@@ -1,0 +1,7 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync,existsSync} from 'node:fs';
+import {createRebusDeck,christmasCategories} from '../lib/rebus-games.mjs';
+const random=JSON.parse(readFileSync(new URL('../lib/puzzles.json',import.meta.url))),christmas=JSON.parse(readFileSync(new URL('../lib/christmas-puzzles.json',import.meta.url)));
+for(const count of [10,20,30])test(`Rebus ${count}: unique random draw and balanced, grouped Christmas categories`,()=>{const a=createRebusDeck({puzzleCount:count},random,christmas);assert.equal(a.length,count);assert.equal(new Set(a.map(p=>p.id)).size,count);assert.ok(a.every(p=>!p.batch&&!p.title.includes('Batch')));const b=createRebusDeck({rebusCategory:'christmas',puzzleCount:count},random,christmas);assert.equal(b.length,count);assert.equal(new Set(b.map(p=>p.id)).size,count);assert.deepEqual([...new Set(b.map(p=>p.theme))],christmasCategories);const counts=christmasCategories.map(c=>b.filter(p=>p.theme===c).length);assert.ok(Math.max(...counts)-Math.min(...counts)<=1);});
+test('Christmas library has 48 matching artwork files and answers; source decks stay unchanged',()=>{assert.equal(christmas.length,48);assert.ok(christmas.every(p=>p.answer&&existsSync(new URL('../public'+p.image,import.meta.url))));assert.equal(random.length,300);assert.equal(random[0].batch,1);assert.equal(createRebusDeck({puzzleCount:999},random,christmas).length,20)});

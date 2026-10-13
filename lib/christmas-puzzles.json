@@ -1,0 +1,386 @@
+[
+  {
+    "id": "christmas-general-1",
+    "title": "General Christmas · Puzzle 1",
+    "answer": "The North Pole",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-01.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-2",
+    "title": "General Christmas · Puzzle 2",
+    "answer": "Elf on the Shelf",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-02.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-3",
+    "title": "General Christmas · Puzzle 3",
+    "answer": "Secret Santa",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-03.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-4",
+    "title": "General Christmas · Puzzle 4",
+    "answer": "Mince Pies",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-04.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-5",
+    "title": "General Christmas · Puzzle 5",
+    "answer": "Santa’s Nine Reindeer",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-05.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-6",
+    "title": "General Christmas · Puzzle 6",
+    "answer": "Candy Cane",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-06.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-7",
+    "title": "General Christmas · Puzzle 7",
+    "answer": "Jack Frost",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-07.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-8",
+    "title": "General Christmas · Puzzle 8",
+    "answer": "Panto",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-08.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-9",
+    "title": "General Christmas · Puzzle 9",
+    "answer": "Gold, Frankincense & Myrrh",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-09.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-10",
+    "title": "General Christmas · Puzzle 10",
+    "answer": "Boxing Day",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-10.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-11",
+    "title": "General Christmas · Puzzle 11",
+    "answer": "Noel",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-11.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-general-12",
+    "title": "General Christmas · Puzzle 12",
+    "answer": "Snow Globe",
+    "theme": "General Christmas",
+    "image": "/puzzles/christmas/general-12.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-1",
+    "title": "Christmas Songs · Puzzle 1",
+    "answer": "Last Christmas",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-01.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-2",
+    "title": "Christmas Songs · Puzzle 2",
+    "answer": "Step Into Christmas",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-02.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-3",
+    "title": "Christmas Songs · Puzzle 3",
+    "answer": "Rockin’ Around the Christmas Tree",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-03.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-4",
+    "title": "Christmas Songs · Puzzle 4",
+    "answer": "Driving Home for Christmas",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-04.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-5",
+    "title": "Christmas Songs · Puzzle 5",
+    "answer": "Walking in the Air",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-05.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-6",
+    "title": "Christmas Songs · Puzzle 6",
+    "answer": "Let It Snow! Let It Snow! Let It Snow!",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-06.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-7",
+    "title": "Christmas Songs · Puzzle 7",
+    "answer": "I Wish It Could Be Christmas Everyday",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-07.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-8",
+    "title": "Christmas Songs · Puzzle 8",
+    "answer": "White Christmas",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-08.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-9",
+    "title": "Christmas Songs · Puzzle 9",
+    "answer": "One More Sleep",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-09.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-10",
+    "title": "Christmas Songs · Puzzle 10",
+    "answer": "Christmas Alphabet",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-10.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-11",
+    "title": "Christmas Songs · Puzzle 11",
+    "answer": "Stop the Cavalry",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-11.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-songs-12",
+    "title": "Christmas Songs · Puzzle 12",
+    "answer": "Have Yourself a Merry Little Christmas",
+    "theme": "Christmas Songs",
+    "image": "/puzzles/christmas/songs-12.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-1",
+    "title": "Christmas Carols · Puzzle 1",
+    "answer": "Silent Night",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-01.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-2",
+    "title": "Christmas Carols · Puzzle 2",
+    "answer": "We Three Kings of Orient Are",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-02.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-3",
+    "title": "Christmas Carols · Puzzle 3",
+    "answer": "Ding Dong Merrily on High",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-03.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-4",
+    "title": "Christmas Carols · Puzzle 4",
+    "answer": "The Holly and the Ivy",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-04.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-5",
+    "title": "Christmas Carols · Puzzle 5",
+    "answer": "It Came Upon a Midnight Clear",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-05.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-6",
+    "title": "Christmas Carols · Puzzle 6",
+    "answer": "Away in a Manger",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-06.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-7",
+    "title": "Christmas Carols · Puzzle 7",
+    "answer": "The 12 Days of Christmas",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-07.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-8",
+    "title": "Christmas Carols · Puzzle 8",
+    "answer": "O Holy Night",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-08.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-9",
+    "title": "Christmas Carols · Puzzle 9",
+    "answer": "In the Bleak Midwinter",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-09.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-10",
+    "title": "Christmas Carols · Puzzle 10",
+    "answer": "Little Donkey",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-10.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-11",
+    "title": "Christmas Carols · Puzzle 11",
+    "answer": "Good King Wenceslas",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-11.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-carols-12",
+    "title": "Christmas Carols · Puzzle 12",
+    "answer": "God Rest Ye Merry Gentlemen",
+    "theme": "Christmas Carols",
+    "image": "/puzzles/christmas/carols-12.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-1",
+    "title": "Christmas Movies · Puzzle 1",
+    "answer": "Elf",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-01.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-2",
+    "title": "Christmas Movies · Puzzle 2",
+    "answer": "The Holiday",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-02.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-3",
+    "title": "Christmas Movies · Puzzle 3",
+    "answer": "Love Actually",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-03.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-4",
+    "title": "Christmas Movies · Puzzle 4",
+    "answer": "The Polar Express",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-04.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-5",
+    "title": "Christmas Movies · Puzzle 5",
+    "answer": "Last Christmas",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-05.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-6",
+    "title": "Christmas Movies · Puzzle 6",
+    "answer": "Nativity",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-06.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-7",
+    "title": "Christmas Movies · Puzzle 7",
+    "answer": "Spirited",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-07.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-8",
+    "title": "Christmas Movies · Puzzle 8",
+    "answer": "The Muppet Christmas Carol",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-08.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-9",
+    "title": "Christmas Movies · Puzzle 9",
+    "answer": "The Grinch",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-09.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-10",
+    "title": "Christmas Movies · Puzzle 10",
+    "answer": "Bad Santa",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-10.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-11",
+    "title": "Christmas Movies · Puzzle 11",
+    "answer": "Home Alone",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-11.png",
+    "crop": null
+  },
+  {
+    "id": "christmas-movies-12",
+    "title": "Christmas Movies · Puzzle 12",
+    "answer": "Miracle on 34th Street",
+    "theme": "Christmas Movies",
+    "image": "/puzzles/christmas/movies-12.png",
+    "crop": null
+  }
+]
