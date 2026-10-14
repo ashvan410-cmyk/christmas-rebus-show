@@ -1,6 +1,6 @@
 import { readFile } from 'node:fs/promises';
 const expected=JSON.parse(await readFile(new URL('../build/deployment-info.json',import.meta.url),'utf8'));
-const base=process.env.CF_PUBLIC_URL||'https://christmas-rebus-show.steadytogether.workers.dev';
+const base=process.env.CF_PUBLIC_URL||'https://christmas-tradition-games.steadytogether.workers.dev';
 let last;
 for(let attempt=0;attempt<12;attempt++){
  try{
