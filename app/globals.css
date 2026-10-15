@@ -125,3 +125,7 @@ body.wheel-phone-view,body.wheel-tv-view{padding:0;height:100dvh}.wheel-phone-vi
 
 /* Keep the direct exit accessible alongside help and host tools on small phones. */
 .gift-phone-compact footer{gap:4px}.gift-phone-compact footer button{flex:1;min-width:0;padding:8px 5px;font-size:12px}.gift-phone-compact .compact-qr-space{width:46px}
+
+/* Newest activity stays visible; older rows flow below the TV viewport. */
+.wheel-tv-view .move-history{flex:1;min-height:0;flex-shrink:1}.wheel-tv-view .move-history li{flex-shrink:0}
+.gift-phone-compact .wild-turn-note{font-size:12px;color:#f2d68e;margin:4px 0}
