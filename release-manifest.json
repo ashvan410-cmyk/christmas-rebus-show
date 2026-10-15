@@ -1,13 +1,13 @@
 {
-  "release": "christmas-wheel-unwrap-20261015",
-  "sourceFingerprint": "5119c63bf1246e26819e740620e0110fd296f10a7c778358259c72c64eaec099",
+  "release": "christmas-card-contrast-20261015",
+  "sourceFingerprint": "5b777c667009c1485c450836abd5d0a8e3fc5d2a4b2e66c4160356a32ffcbec2",
   "files": {
     ".openai/hosting.json": "3fe47bb831062c407afdb7d402a248897fcd6b7835bf311150005669faa79533",
     "app/api/game/route.ts": "ce81f1d3d097269ac85cf5bc87fb9764516501e6377430dac818f7881ad8b25f",
     "app/chatgpt-auth.ts": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc",
     "app/device-guide.tsx": "36cb28fdd7257ad0f6e7d399ed17b7e865917e6457baa8b37a629a67710c5c78",
     "app/game-directions.tsx": "de5ff5b5a1d7d92b040b47fc2215fcfb81c5aeb9d38d0fdd3f53d4e1dcf4009c",
-    "app/globals.css": "e1774afa35b3efc4822541dc11b05ec4830c62aeac443bdc51b15cb20b8b623c",
+    "app/globals.css": "7a84aa2e8c9ecc7c912e1b8a2549a2c57b551ecb42ac36c9d1e70a5c471f1d47",
     "app/host-walkthrough.tsx": "df980c2f433ae6f142ae1b917dcecad9e38bdefdd2023a8a2acfeb1f002b3d85",
     "app/join-qr.tsx": "19fc68b620d8a2fd57b10c8f2d9d323e897b030b34e54540630665fb743159f6",
     "app/layout.tsx": "95ae070e48e9968eb983f495cba4b445cba396f6a8e2ca4d96c0eb055006153a",

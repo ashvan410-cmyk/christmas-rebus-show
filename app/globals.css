@@ -128,4 +128,5 @@ body.wheel-phone-view,body.wheel-tv-view{padding:0;height:100dvh}.wheel-phone-vi
 
 /* Newest activity stays visible; older rows flow below the TV viewport. */
 .wheel-tv-view .move-history{flex:1;min-height:0;flex-shrink:1}.wheel-tv-view .move-history li{flex-shrink:0}
-.gift-phone-compact .wild-turn-note{font-size:12px;color:#f2d68e;margin:4px 0}
+.gift-phone-compact .wild-turn-note{font-size:12px;color:#fff3d4;margin:4px 0}
+.gift-phone-compact .mystery .wild-turn-note{color:#103d2a}
